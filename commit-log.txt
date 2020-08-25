@@ -1,0 +1,96 @@
+commit b241f0313d7ea962eeb4b4930ab53c0aebe63fb2
+Author: Charnchanok Thuppasutthi <s6201012620058@email.kmutnb.ac.th>
+Date:   Tue Aug 25 16:07:07 2020 +0700
+
+    undo delete ball(cannot run)
+
+commit 22adea9aac71a4387dc694e8db53001452bdae72
+Author: pakpoom <s6201012620210@email.kmutnb.ac.th>
+Date:   Fri Aug 14 11:11:29 2020 +0700
+
+    flashing object
+
+commit ba1565330cf4f4c1a8bc1737fc79dbfcee23418d
+Merge: 946b833 6db9ce6
+Author: Nipon kamfoy <s6201012630061@email.kmutnb.ac.th>
+Date:   Fri Aug 14 10:16:32 2020 +0700
+
+    Merge branch 'master' of https://github.com/Charnchanok-Thuppasutthi/w6-Tuesday-group6-repo
+
+commit 946b833f886d22dbed571a18bc1f9b92944318d0
+Author: Nipon kamfoy <s6201012630061@email.kmutnb.ac.th>
+Date:   Fri Aug 14 10:15:28 2020 +0700
+
+    delete not use function
+
+commit 6db9ce6450919408b10006c21203d692c2e5c08c
+Author: Charnchanok Thuppasutthi <69077955+Charnchanok-Thuppasutthi@users.noreply.github.com>
+Date:   Fri Aug 14 10:13:41 2020 +0700
+
+    Update README.md
+
+commit 8405967328fd4dd7ed848cf6b168bfe857396a64
+Author: pakpoom <s6201012620210@email.kmutnb.ac.th>
+Date:   Thu Aug 13 15:41:03 2020 +0700
+
+    updated delete comment
+
+commit 64b1bfd88fcf43b8b64acfff3e521edfcf4ee2a6
+Author: pakpoom <s6201012620210@email.kmutnb.ac.th>
+Date:   Thu Aug 13 15:36:02 2020 +0700
+
+    fix mousepressed to mouseclicked
+
+commit 11887aff0accc6e8b1189ceec41f0c10356a6062
+Author: Charnchanok Thuppasutthi <69077955+Charnchanok-Thuppasutthi@users.noreply.github.com>
+Date:   Wed Aug 12 22:04:35 2020 +0700
+
+    Update README.md
+
+commit 5daa736003072b68b5ca2537a32c7693a303e956
+Author: Charnchanok Thuppasutthi <69077955+Charnchanok-Thuppasutthi@users.noreply.github.com>
+Date:   Wed Aug 12 22:04:17 2020 +0700
+
+    Create README.md
+
+commit 5cf294f709eab09b58bc10736cd87e793ef2ad96
+Author: Charnchanok Thuppasutthi <s6201012620058@email.kmutnb.ac.th>
+Date:   Wed Aug 12 21:58:38 2020 +0700
+
+    Create Block Class
+
+commit 0975b1330c40a935d7c65a4d043f48afa0e963bb
+Author: pakpoom <s6201012620210@email.kmutnb.ac.th>
+Date:   Wed Aug 12 17:10:24 2020 +0700
+
+    fix change type float to int
+
+commit 8278bd7c0fc9edb28b6f0eddb606b1a8b21b19d2
+Author: Nipon kamfoy <s6201012630061@email.kmutnb.ac.th>
+Date:   Wed Aug 12 16:37:53 2020 +0700
+
+    create ball with array of object and calculate the area git statusBut have a problem it calculate the sum of area in the end false
+
+commit ae105d6e38f280487a44b8ac94239c4246e5262a
+Author: Charnchanok Thuppasutthi <s6201012620058@email.kmutnb.ac.th>
+Date:   Fri Aug 7 14:44:57 2020 +0700
+
+    Class_object_Ball&Block
+
+commit 8ffad357ae227bd8c4b0ccc9ff5eb5e0cd0726de
+Author: Charnchanok Thuppasutthi <s6201012620058@email.kmutnb.ac.th>
+Date:   Fri Aug 7 14:41:59 2020 +0700
+
+    Class_Object_Ball
+
+commit d0b35bd78758c2cd47feeee37ea9299c4937b023
+Author: Charnchanok Thuppasutthi <s6201012620058@email.kmutnb.ac.th>
+Date:   Fri Aug 7 14:39:58 2020 +0700
+
+    Class_Ball
+
+commit 3a9fd41022934fb2648d919363ab8814d1510590
+Author: Charnchanok Thuppasutthi <s6201012620058@email.kmutnb.ac.th>
+Date:   Fri Aug 7 14:38:56 2020 +0700
+
+    Class_Ball
